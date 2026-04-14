@@ -26,7 +26,7 @@ N/A
 
 ### Content Changes
 
-- In Lab 1 : Note related to deployment of resources in the east us region has been removed in order to avoid the conflict mentioned in above steps. 
+- In Lab 1 : The note regarding resource deployment in the **East US** region has been removed to avoid confusion in the lab instructions
   
 ### Screenshot Updates
  
