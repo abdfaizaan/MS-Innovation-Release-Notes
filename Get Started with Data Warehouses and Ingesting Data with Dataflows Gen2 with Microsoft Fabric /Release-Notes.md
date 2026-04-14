@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-14</summary>
+
+## Release Date: 2026-04-14
+
+### Summary of Changes
+
+Updated lab instructions to align with the latest Dataflow Gen2 behavior, improved task flow clarity, and refined steps for a more consistent and accurate learner experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Lab 01**: Updated Task 3 – Step 3 to improve the dataflow creation flow.
+- Replaced outdated instructions with the current behavior (publish option not available; updated to save the dataflow) and
+made minor instruction improvements for better clarity.
+- **Lab 02**: Made minor instruction updates for improved clarity and consistency.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to align with the latest user interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-14
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, and enhanced the lab guide with the latest screenshots.
+
+---
+</details>
+
+<details>
   <summary>2026-02-25</summary>
 
 ## Release Date: 2026-02-25
