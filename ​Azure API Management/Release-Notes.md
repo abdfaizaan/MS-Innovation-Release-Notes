@@ -19,6 +19,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-04-07</summary>
+
+## Release Date: 2026-04-07
+
+### Summary of Changes
+
+- Updated the Ex9 as per the new UI updates in Power Platform portal.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated Ex 9 steps and screenshots as per Ui updates in the PowerApps portal.
+
+### Screenshot Updates
+
+Minor updates:
+
+  - Updated UI Screenshots: Replaced screenshots to match the latest user interface. 
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-07
+
+### Testing Scope 
+
+- Performed end-to-end testing, including RBAC and policy compliance checks, validation checks, and content updates.
+
+</details>
+
+<details>
   <summary>2026-01-21</summary>
 
 ## Release Date: 2026-01-21
