@@ -16,6 +16,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-04-17</summary>
+
+## Release Date: 2026-04-17
+
+### Summary of Changes
+
+Major updates were implemented across the guide, including clearer and more accurate UI screenshots. Instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* **Module 01 – Exercise 2:** Updated the screenshots and instructions for better clarity.
+* **Module 01 – Exercise 3:** Updated the screenshots and instructions for better clarity.
+* **Module 02 – Exercise 1:** Revised the screenshots and instructions to improve clarity.
+* **Module 02 – Exercise 2:** Revised the screenshots and instructions to improve clarity.
+* **Module 02 – Exercise 3:** Updated the screenshots and instructions for better clarity.
+* **Module 03 – Exercise 1:** Revised the screenshots and instructions to improve clarity.
+* **Module 03 – Exercise 2:** Updated the screenshots and instructions for better clarity.
+* **Module 03 – Exercise 3:** Revised the screenshots and instructions to improve clarity.
+* **Module 03 – Exercise 4:** Revised the screenshots and instructions to improve clarity.
+* **Module 04 – Exercise 1:** Updated the screenshots and instructions for better clarity.
+* **Module 04 – Exercise 2:** Revised the screenshots and instructions to improve clarity.
+* **Module 04 – Exercise 3:** Updated the screenshots and instructions for better clarity.
+* **Module 04 – Exercise 4:** Updated the screenshots and instructions for better clarity.
+
+
+### Screenshot Updates
+
+- **Major updates**: Multiple screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-17
+  Testing activities were carried out on the same date to validate the content, screenshots, and feature behavior.
+
+### Testing Scope
+
+- Performed complete end-to-end lab testing. Verified all instructions, interactions, and user flows with the latest UI.
+
+</details>
+
+<details>
   <summary>2026-02-26</summary>
 
 ### Release Date: 2026-02-26
